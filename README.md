@@ -16,7 +16,9 @@ Open Command Prompt (Windows) or Terminal (Linux) and type in the following comm
 	3	take a red piece of cloth in front of it and the magic will happen.
 
 
-	I use the range 0-10 and 170-180 to avoid detection of skin as 	red. High range of 120-255 for saturation is used because our 	cloth should be of highly saturated red color. The lower range 	of value is 70 so that we can detect red color in the wrinkles 	of the cloth as well.
+	I use the range 0-10 and 170-180 to avoid detection of skin as 	red. High range of 120-255
+	 for saturation is used because our 	cloth should be of highly saturated red color. The lower range 	
+	 of value is 70 so that we can detect red color in the wrinkles 	of the cloth as well.
 
 
-	![](https://github.com/YKalashnikov/Invisibility/blob/master/image.gif)
+![](https://github.com/YKalashnikov/Invisibility/blob/master/image.gif)
